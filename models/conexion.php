@@ -1,10 +1,10 @@
 <?php
     class Conexion{
         private $servidor = "localhost";
-        private $puerto = "3306";
+        private $puerto = "3307";
         private $baseDatos = "siscalificaciones";
         private $usuario = "root";
-        private $clave = "";
+        private $clave = "fabrizio";
 
         public function getConexion(){
             try{
