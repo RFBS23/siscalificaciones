@@ -1,6 +1,5 @@
 <?php
     session_start();
-    $_SESSION['personas'];
 ?>
 <!doctype html>
 <html lang="es">
