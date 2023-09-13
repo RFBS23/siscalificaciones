@@ -50,9 +50,51 @@
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
-            <a href="courses.html" class="get-started-btn">Iniciar Sesion</a>
+            <button type="button" class="get-started-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" style="border: #0a53be">
+                Iniciar Sesion
+            </button>
         </div>
     </header><!-- End Header -->
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="exampleModalLabel">Eres Estudiante o Adminitrad@r?? &#129300;</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row row-cols-2  mb-3 text-center">
+                        <div class="col">
+                            <div class="card mb-4 rounded-3 shadow-sm">
+                                <div class="card-header py-3">
+                                    <h4 class="my-0 fw-normal">Administracion</h4>
+                                </div>
+                                <div class="card-body">
+                                    <img src="assets/img/administrador.png" class="img-fluid">
+                                    <button type="button" class="w-100 btn btn-lg btn-outline-primary py-2">Iniciar Sesion</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card mb-4 rounded-3 shadow-sm">
+                                <div class="card-header py-3">
+                                    <h4 class="my-0 fw-normal">Estudiante</h4>
+                                </div>
+                                <div class="card-body">
+                                    <img src="assets/img/estudiante.png" class="img-fluid">
+                                    <button type="button" class="w-100 btn btn-lg btn-primary py-2">Iniciar Sesion</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex justify-content-center align-items-center">

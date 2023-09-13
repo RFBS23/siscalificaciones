@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Acceso Estudiante</title>
-    <link href="../assets/img/logo.png" rel="icon">
+    <link href="assets/img/logo.png" rel="icon">
     <!-- Font Icon -->
-    <link rel="stylesheet" href="../assets/login/fonts/material-icon/css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="assets/login/fonts/material-icon/css/material-design-iconic-font.min.css">
     <!-- Main css -->
-    <link rel="stylesheet" href="../assets/login/css/style.css">
+    <link rel="stylesheet" href="assets/login/css/style.css">
 </head>
 <body style="user-select: none;">
     <div class="main">
@@ -38,7 +38,7 @@
                         </form>
                     </div>
                     <div class="signup-image">
-                        <figure><img src="../assets/login/images/estudiante.jpg" alt="sing up image"></figure>
+                        <figure><img src="assets/login/images/estudiante.jpg" alt="sing up image"></figure>
                         <a href="login.php" class="signup-image-link">Iniciar con Administrador</a>
                     </div>
                 </div>
@@ -47,6 +47,6 @@
     </div>
     <!-- JS -->
     <script src="assets/vendor/jquery/jquery.min.js"></script>
-    <script src="../assets/login/js/main.js"></script>
+    <script src="assets/login/js/main.js"></script>
 </body>
 </html>

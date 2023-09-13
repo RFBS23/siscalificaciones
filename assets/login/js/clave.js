@@ -1,5 +1,5 @@
 var verclave  = document.getElementById('verpass');
-var cajaclave = document.getElementById('clave');
+var cajaclave = document.getElementById('claveacceso');
 
 verclave.addEventListener("click", function (){
     if (cajaclave.type == "password") {
