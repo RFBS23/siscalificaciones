@@ -61,7 +61,7 @@
         <div class="modal-dialog modal-dialog-centered">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h1 class="modal-title fs-5" id="exampleModalLabel">Eres Estudiante o Adminitrad@r?? &#129300;</h1>
+                    <h1 class="modal-title fs-5" id="exampleModalLabel">¿Eres Estudiante o Administrador? &#129300;</h1>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
@@ -69,11 +69,11 @@
                         <div class="col">
                             <div class="card mb-4 rounded-3 shadow-sm">
                                 <div class="card-header py-3">
-                                    <h4 class="my-0 fw-normal">Administracion</h4>
+                                    <h4 class="my-0 fw-normal">Administración</h4>
                                 </div>
                                 <div class="card-body">
                                     <img src="assets/img/administrador.png" class="img-fluid">
-                                    <button type="button" class="w-100 btn btn-lg btn-outline-primary py-2">Iniciar Sesion</button>
+                                    <button type="button" class="w-100 btn btn-lg btn-outline-primary py-2">Iniciar Sesión</button>
                                 </div>
                             </div>
                         </div>
@@ -84,7 +84,7 @@
                                 </div>
                                 <div class="card-body">
                                     <img src="assets/img/estudiante.png" class="img-fluid">
-                                    <button type="button" class="w-100 btn btn-lg btn-primary py-2">Iniciar Sesion</button>
+                                    <button type="button" class="w-100 btn btn-lg btn-primary py-2">Iniciar Sesión</button>
                                 </div>
                             </div>
                         </div>
@@ -116,7 +116,7 @@
                     <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
                         <h3>🏫 Descubre nuestro amplio y moderno local en Olympus Circulo de Estudios, ¡perfecto para tus eventos académicos!. 🎉</h3>
                         <p class="fst-italic">
-                            Únete a nuestros Seminarios Sabatinos en Olympus y potencia tus conocimientos. 🚀 Descubre un mundo de aprendizaje en nuestras sesiones llenas de inspiración y conocimientos valiosos. No pierdas la oportunidad de crecer con nosotros. 🌟
+                            Únete a nuestros Seminarios Sabatinos en Olympus y potencia tus conocimientos. &#x1F60D; Descubre un mundo de aprendizaje en nuestras sesiones llenas de inspiración y conocimientos valiosos. No pierdas la oportunidad de crecer con nosotros. 🌟
                         </p>
                         <ul>
                             <li><i class="bi bi-check-circle"></i> Lectura, pensamiento critico y expresion oral.</li>
